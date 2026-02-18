@@ -3,4 +3,4 @@ Skyridge High School<br>
 Beeper<br>
 Wayland, MA<br>
 Computer Science - TV Broadcasting<br>
-<img>
+<embed src="craiglavin-asd/craiglavin-alpinedistrict.org/Skyridge Teacher Pic.png" type="png">
